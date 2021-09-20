@@ -59,7 +59,7 @@ public class ArcPOM {
 
 	public void printcount() {
 		String s=pointcount.getText();
-		System.out.println(s);
+		System.out.println( s );
 		
     }
 	
